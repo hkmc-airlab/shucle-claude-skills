@@ -1,0 +1,11 @@
+{
+  "name": "shucle-claude-skills",
+  "description": "hkmc-airlab Shucle 팀의 Claude Code 공용 스킬 모음 (MD 업데이트, 웹 페치)",
+  "version": "1.0.0",
+  "author": {
+    "name": "hkmc-airlab"
+  },
+  "homepage": "https://github.com/hkmc-airlab/shucle-claude-skills",
+  "repository": "https://github.com/hkmc-airlab/shucle-claude-skills",
+  "license": "MIT"
+}

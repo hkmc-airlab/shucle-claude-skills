@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "shucle-claude-skills",
+  "description": "hkmc-airlab Shucle 팀의 Claude Code 공용 스킬 플러그인 모음",
+  "owner": {
+    "name": "hkmc-airlab"
+  },
+  "plugins": [
+    {
+      "name": "shucle-claude-skills",
+      "description": "Shucle 팀 공용 스킬 (MD 업데이트, 웹 페치)",
+      "source": "./plugins/shucle-claude-skills"
+    }
+  ]
+}
